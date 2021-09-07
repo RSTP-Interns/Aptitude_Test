@@ -1,0 +1,16 @@
+body{
+    background-color:forestgreen;  
+    background-image:url('admback.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+p{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-style: oblique;
+ font-variant: inherit;
+}
+h3{
+    color: aliceblue;
+}
